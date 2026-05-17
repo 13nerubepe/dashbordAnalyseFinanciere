@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import numpy as np
+# import numpy as np
 import streamlit.components.v1 as components
 
 st.set_page_config(page_title="Tableau de Bord Immobilier", page_icon="🏠",
